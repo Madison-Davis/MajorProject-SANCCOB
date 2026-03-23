@@ -1,4 +1,4 @@
-# MajorProject-SANCCOB-
+# MajorProject-SANCCOB
 
 Educational platform teaching users the process of rescuing and rehabilitating African penguins.
 
